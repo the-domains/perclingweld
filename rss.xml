@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[perclingweld]]></title>
-        <description><![CDATA[perclingweld]]></description>
+        <title><![CDATA[Love People. Love Life.]]></title>
+        <description><![CDATA[Love People. Love Life.]]></description>
         <link>https://thegrid.ai/perclingweld/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 28 Feb 2016 10:54:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Aug 2016 13:22:52 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/perclingweld/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[BUILDING CONNECTIONS ENABLING CHANGE]]></title>
+            <description><![CDATA[<p>BUILDING CONNECTIONS ENABLING CHANGE</p>]]></description>
+            <link>http://nova.com/</link>
+            <guid isPermaLink="false">30218070-bb15-4c74-9f15-0b9cceacc20c</guid>
+            <pubDate>Wed, 03 Aug 2016 13:22:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://scontent-amt2-1.xx.fbcdn.net/hphotos-xtf1/v/t1.0-9/12043152_1728881464006444_1381821991623660940_n.png?oh=025d328119d71c604c6fa1729d5c4c49&oe=5750C977">]]></description>
@@ -14,24 +21,17 @@
             <pubDate>Sun, 28 Feb 2016 10:52:53 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[4 Reasons Why Curiosity is Important and How to Develop It]]></title>
-            <description><![CDATA[<article><h1>4 Reasons Why Curiosity is Important and How to Develop It</h1><p>The important thing is not to stop questioning... Never lose a holy curiosity. Albert Einstein Curiosity is an important trait of a genius. I don't think you can find an intellectual giant who is not a curious person. Thomas Edison, Leonardo da Vinci, Albert Einstein, Richard Feynman, they are all curious characters.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/36e1d3ce878e1aadb4e97a3c5edf1d18cfd3840e.jpg"></article>]]></description>
-            <link>http://ow.ly/YNmls</link>
-            <guid isPermaLink="false">92ca11c6-b9af-44a4-9aa3-ef3862237307</guid>
-            <pubDate>Sun, 28 Feb 2016 10:52:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>BUILDING CONNECTIONS ENABLING CHANGE</p>]]></description>
-            <link>https://thegrid.ai/perclingweld/building-connections-enabling-change/index.html</link>
-            <guid isPermaLink="false">30218070-bb15-4c74-9f15-0b9cceacc20c</guid>
-            <pubDate>Sun, 28 Feb 2016 10:52:53 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Seth's Blog]]></title>
             <description><![CDATA[<article><h1>Seth's Blog</h1><p>Should the person who runs the customer service operations at a ski school also be required to love skiing? Can the CFO of a large church be an atheist? Does the head of marketing at Kodak have to have a passion for chemicals? It's true, "write what you know, write what you love."</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3d3571e25a95bf9f98da7705286efa5275eeae97.png"></article>]]></description>
             <link>http://ow.ly/YGIka</link>
             <guid isPermaLink="false">b6eb8888-1f63-4e26-8c0b-ee461e186fdb</guid>
+            <pubDate>Sun, 28 Feb 2016 10:52:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[4 Reasons Why Curiosity is Important and How to Develop It]]></title>
+            <description><![CDATA[<article><h1>4 Reasons Why Curiosity is Important and How to Develop It</h1><p>The important thing is not to stop questioning... Never lose a holy curiosity. Albert Einstein Curiosity is an important trait of a genius. I don't think you can find an intellectual giant who is not a curious person. Thomas Edison, Leonardo da Vinci, Albert Einstein, Richard Feynman, they are all curious characters.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/36e1d3ce878e1aadb4e97a3c5edf1d18cfd3840e.jpg"></article>]]></description>
+            <link>http://ow.ly/YNmls</link>
+            <guid isPermaLink="false">92ca11c6-b9af-44a4-9aa3-ef3862237307</guid>
             <pubDate>Sun, 28 Feb 2016 10:52:53 GMT</pubDate>
         </item>
     </channel>
