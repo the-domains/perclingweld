@@ -1,18 +1,24 @@
 ---
-description: BUILDING CONNECTIONS ENABLING CHANGE
-author: []
-datePublished: '2016-02-28T10:52:53.939Z'
-publisher:
-  domain: nova.com
-  name: nova.com
-dateModified: '2016-02-28T10:51:44.082Z'
-title: ''
+datePublished: '2016-08-03T13:22:37.869Z'
 sourcePath: _posts/2016-02-28-building-connections-enabling-change.md
-published: true
 inFeed: true
-hasPage: true
+isBasedOnUrl: 'http://nova.com/'
+authors: []
+hasPage: false
+keywords: []
+author: []
+dateModified: '2016-08-03T13:22:37.372Z'
+title: ''
+publisher:
+  name: nova.com
+  domain: nova.com
+  url: null
+  favicon: null
+description: BUILDING CONNECTIONS ENABLING CHANGE
+inLanguage: null
 inNav: false
-url: building-connections-enabling-change/index.html
+via: {}
+starred: false
 _context: 'http://schema.org'
 _type: Article
 
